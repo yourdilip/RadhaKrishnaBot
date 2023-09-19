@@ -505,7 +505,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('Back', callback_data='start'),
             InlineKeyboardButton('Next', callback_data='helps')
         ], [
-            InlineKeyboardButton('Help Video', url=f"https://t.me/{temp.U_NAME}?start=tutorial")
+            InlineKeyboardButton('Help Video', url=HOW_TO_DOWNLOAD)
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
