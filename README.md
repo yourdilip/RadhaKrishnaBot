@@ -1,12 +1,12 @@
-# <h2 align="centre"><i><b>💖Radha Krishn Bot💝</i></b></h2>
+# <h2 align="centre"><i><b>💖Radha Krishna Bot💝</i></b></h2>
 
 <p align="center"><a href="https://t.me/bjsodha"><img src="https://telegra.ph/file/e1a576851c3048a130aec.jpg" width="500"></a></p>
 
-### <b>Radha Krishn Bot With Pm Feature and 4GB Files Supporting Working One</b>
+### <b>Radha Krishna Bot With Pm Feature and 4GB Files Supporting Working One</b>
 
 # Introduction
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Radha+Krishn+Bot!;Created+by+@bjsodha!;A+simple+and+a+basic+Bot!;A+Advanced+AutoFilter+Bot;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Radha+Krishna+Bot!;Created+by+@bjsodha!;A+simple+and+a+basic+Bot!;A+Advanced+AutoFilter+Bot;)
 </p>
 </h1>
 
@@ -16,7 +16,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/bhimsinh3/rkep2018bot">
+<a href="https://heroku.com/deploy?template=https://github.com/bjsodha/RadhaKrishnaBot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -25,7 +25,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Koyeb</summary>
 <p>
 <br>
-<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/bhimsinh3/rkep2018bot&branch=main&name=rkep2018bot">
+<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/bjsodha/RadhaKrishnaBot&branch=main&name=RadhaKrishnaBot">
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -43,7 +43,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/bhimsinh3/rkep2018bot 
+git clone https://github.com/bjsodha/RadhaKrishnaBot
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
