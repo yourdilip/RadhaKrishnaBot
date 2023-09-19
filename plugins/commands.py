@@ -618,6 +618,6 @@ async def help_bj(client, message):
     await message.reply_text(
         text=script.HELP_TXT,
         disable_web_page_preview=True,
-        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton('Help Video', url=f"https://t.me/{temp.U_NAME}?start=tutorial")]]),
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton('Help Video', url=HOW_TO_DOWNLOAD)]]),
         parse_mode=enums.ParseMode.HTML
     )
