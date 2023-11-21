@@ -278,7 +278,7 @@ async def start(client, message):
             InlineKeyboardButton('Delete', callback_data='close_data'),
             InlineKeyboardButton('Updates', url=f'https://t.me/{UPDATES_CHANNEL}')
         protect_content=True if pre == 'filep' else False
-    )
+    )]]
    # markup = await direct_gen_handler(sodha)
   #  await sodha.edit_reply_markup(markup) if markup else None
     await asyncio.sleep(600)
